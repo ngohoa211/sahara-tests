@@ -36,3 +36,5 @@ In sahara_tests folder we have next tools:
 .. _Source: https://git.openstack.org/cgit/openstack/sahara-tests
 .. _Specs: https://specs.openstack.org/openstack/sahara-specs/
 .. _Release notes: https://docs.openstack.org/releasenotes/sahara-tests/unreleased.html
+.. _tim config job: /sahara_tests/scenario/defaults/edp.yaml.mako
+.. _tim cau hinh cluster: /sahara_tests/scenario/defaults/pike
